@@ -1,0 +1,15 @@
+.score-star{
+    cursor: pointer;
+}
+
+.fa-thumbs-up{
+    cursor: pointer;
+}
+
+#reviewUnderLine{
+  text-decoration: underline;
+}
+
+textarea {
+    resize: none;
+}
